@@ -1,0 +1,3 @@
+My new project of git file
+new git bash cammands 
+new file of git
